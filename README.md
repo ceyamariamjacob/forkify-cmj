@@ -2,4 +2,4 @@
 
 Recipe finder app with add new recipe feature.
 
-check it out @[forkify-cmj](forkify-cmj.netlify.com)
+check it out @[forkify-cmj](https://forkify-cmj.netlify.app)
